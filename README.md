@@ -1,5 +1,4 @@
 # Notify-Nearby iOS Application
-
 **Notify-Nearby** is a location-based application that enables users to post advertisements (for advertisers) and stories (for regular users). Events are displayed on a map and are limited to those within a 10km radius. Users can also view event details in three nearby cities.
 
 ## Features
@@ -14,37 +13,37 @@
 ## Screenshots
 
 ### Launch Screen
-![Launch Screen](https://dl.dropboxusercontent.com/s/xa4k7vxxsx5o3yw/launch%20screen.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/xa4k7vxxsx5o3yw/launch%20screen.png?dl=0" width="300" alt="Launch Screen" />
 
 The initial splash screen of the application.
 
 ### First Screen
-![First Screen](https://dl.dropboxusercontent.com/s/ph2gj82dd7u85nv/login%20screen.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/ph2gj82dd7u85nv/login%20screen.png?dl=0" width="300" alt="First Screen" />
 
 The first interactive screen where users can choose to log in or sign up.
 
 ### Login Screen
-![Login Screen](https://dl.dropboxusercontent.com/s/jtg0xgqun2a08il/login.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/jtg0xgqun2a08il/login.png?dl=0" width="300" alt="Login Screen" />
 
 Users log in with their email and password. Email verification is required. If the user forgets their password, they can reset it from here.
 
 ### Signup Screen
-![Signup Screen](https://dl.dropboxusercontent.com/s/7sztzs6za8866ru/signup.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/7sztzs6za8866ru/signup.png?dl=0" width="300" alt="Signup Screen" />
 
 Users can register either as a normal user or an advertiser.
 
 ### Home Screen
-![Home Screen](https://dl.dropboxusercontent.com/s/ev97gbmy4belfo1/event%20selection%20.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/ev97gbmy4belfo1/event%20selection%20.png?dl=0" width="300" alt="Home Screen" />
 
 The main screen displays a map with event annotations. Tapping an event shows a brief description, and more details can be accessed by clicking the "Details" button.
 
 ### Event Detail Screen
-![Event Detail Screen](https://dl.dropboxusercontent.com/s/zdc0ggxtkgzlurk/event%20detail.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/zdc0ggxtkgzlurk/event%20detail.png?dl=0" width="300" alt="Event Detail Screen" />
 
 Displays full event details, including picture, description, tags, likes, dislikes, and favorites. If it's an advertisement, it redirects to Google Maps for directions.
 
 ### Discovery Screen
-![Discovery Screen](https://dl.dropboxusercontent.com/s/7h6v67703a4itqi/discovery.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/7h6v67703a4itqi/discovery.png?dl=0" width="300" alt="Discovery Screen" />
 
 Displays upcoming events, allowing users to explore future events in their area.
 
@@ -55,12 +54,12 @@ Similar to the Discovery screen, but filters events based on the user's interest
 Displays advertisements within a 10km radius, categorized separately from user stories.
 
 ### Side Navigation
-![Side Navigation](https://dl.dropboxusercontent.com/s/wackg9i0j0w62sf/side%20nav.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/wackg9i0j0w62sf/side%20nav.png?dl=0" width="300" alt="Side Navigation" />
 
 Provides easy access to various sections like Home, Profile, Interests, Categories, Notifications, Account Settings, and Logout.
 
 ### Search Screen
-![Search Screen](https://dl.dropboxusercontent.com/s/jazeprb5edqf2w3/search.png?dl=0)
+<img src="https://dl.dropboxusercontent.com/s/jazeprb5edqf2w3/search.png?dl=0" width="300" alt="Search Screen" />
 
 An advanced search feature that allows users to search for events by tags or address. The search results show events within the vicinity of the specified address.
 
